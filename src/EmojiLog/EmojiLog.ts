@@ -32,5 +32,9 @@ let EmojiLog: Array<Emoji> = [
 		emoji: '‼️ BREAKING:',
 		description: 'Change that breaks previous versions.',
 	},
+	{
+		emoji: "🧹 CHORE",
+		description: 'Routine tasks or maintenance (e.g., code cleanup, dependency updates).',
+	  },
 ];
 export default EmojiLog;
